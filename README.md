@@ -3,10 +3,8 @@
  ## I'm a full stack developer who graduated from App Academy in Aug 2021.
  
  ## I have experience working with both solo projects as well as paired programming formats.
- 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=msineath)](https://github.com/anuraghazra/github-readme-stats)
- 
- For more information, you can visit my site: https://msineath.github.io/
+  
+ For more information, as well as recent projects, please visit: https://msineath.github.io/
 
 <!--
 **msineath/msineath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
