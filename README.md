@@ -2,14 +2,14 @@
  
  ## I'm a full stack developer who graduated from App Academy in Aug 2021.
  
- ## I have experience working with both solo projects as well as paired programming formats.
+ ## Most of my professional work has revolved around the education and gaming industries.
 
  ![](https://github.com/msineath/github-stats-1/blob/master/generated/overview.svg)
  ![](https://github.com/msineath/github-stats-1/blob/master/generated/languages.svg)
 
 
   
- For more information, as well as recent projects, please visit: https://msineath.github.io/
+ For more information, please visit my [LinkedIn profile](https://www.linkedin.com/in/mike-sineath-93149a213/)
 
 <!--
 **msineath/msineath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
