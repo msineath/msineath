@@ -4,8 +4,8 @@
  
  ## I have experience working with both solo projects as well as paired programming formats.
 
- ![](https://github.com/msineath/github-stats/blob/master/generated/overview.svg)
- ![](https://github.com/msineath/github-stats/blob/master/generated/languages.svg)
+ ![](https://github.com/msineath/github-stats-1/blob/master/generated/overview.svg)
+ ![](https://github.com/msineath/github-stats-1/blob/master/generated/languages.svg)
 
 
   
