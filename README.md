@@ -1,8 +1,10 @@
 ### Hi there 👋
  
- ## I'm a full stack developer who graduated from App Academy in Aug 2021.
+I'm Mike, a full stack software engineer who transitioned from creative storytelling into engineering high-impact web applications. Since graduating from App Academy in 2021, I’ve built and scaled educational platforms, real-time content management systems, and game engines used by millions.
+
+Whether crafting component libraries in React, optimizing PostgreSQL queries, or mentoring new developers, I bring creativity, structure, and energy to every line of code.
  
- ## Most of my professional work has revolved around the education and gaming industries.
+My work has spanned the education and gaming sectors, where I've developed interactive learning modules, curriculum-aligned games, and real-time collaborative tools. These experiences have sharpened my ability to build engaging, reliable, and accessible software for diverse audiences.
 
  ![](https://github.com/msineath/github-stats-1/blob/master/generated/overview.svg)
  ![](https://github.com/msineath/github-stats-1/blob/master/generated/languages.svg)
